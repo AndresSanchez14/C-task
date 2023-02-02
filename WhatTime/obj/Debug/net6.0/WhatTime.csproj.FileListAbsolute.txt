@@ -1,0 +1,15 @@
+D:\Repositorio C#\WhatTime\bin\Debug\net6.0\WhatTime.exe
+D:\Repositorio C#\WhatTime\bin\Debug\net6.0\WhatTime.deps.json
+D:\Repositorio C#\WhatTime\bin\Debug\net6.0\WhatTime.runtimeconfig.json
+D:\Repositorio C#\WhatTime\bin\Debug\net6.0\WhatTime.dll
+D:\Repositorio C#\WhatTime\bin\Debug\net6.0\WhatTime.pdb
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.csproj.AssemblyReference.cache
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.AssemblyInfoInputs.cache
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.AssemblyInfo.cs
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.csproj.CoreCompileInputs.cache
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.dll
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\refint\WhatTime.dll
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.pdb
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\WhatTime.genruntimeconfig.cache
+D:\Repositorio C#\WhatTime\obj\Debug\net6.0\ref\WhatTime.dll
